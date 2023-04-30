@@ -1,0 +1,17 @@
+C:\Users\rahil\source\repos\Rahil's Calculator\Rahil's Calculator\bin\Debug\net6.0-windows\Rahil's Calculator.exe
+C:\Users\rahil\source\repos\Rahil's Calculator\Rahil's Calculator\bin\Debug\net6.0-windows\Rahil's Calculator.deps.json
+C:\Users\rahil\source\repos\Rahil's Calculator\Rahil's Calculator\bin\Debug\net6.0-windows\Rahil's Calculator.runtimeconfig.json
+C:\Users\rahil\source\repos\Rahil's Calculator\Rahil's Calculator\bin\Debug\net6.0-windows\Rahil's Calculator.dll
+C:\Users\rahil\source\repos\Rahil's Calculator\Rahil's Calculator\bin\Debug\net6.0-windows\Rahil's Calculator.pdb
+C:\Users\rahil\source\repos\Rahil's Calculator\Rahil's Calculator\obj\Debug\net6.0-windows\Rahil's Calculator.csproj.AssemblyReference.cache
+C:\Users\rahil\source\repos\Rahil's Calculator\Rahil's Calculator\obj\Debug\net6.0-windows\Rahil_s_Calculator.Form1.resources
+C:\Users\rahil\source\repos\Rahil's Calculator\Rahil's Calculator\obj\Debug\net6.0-windows\Rahil's Calculator.csproj.GenerateResource.cache
+C:\Users\rahil\source\repos\Rahil's Calculator\Rahil's Calculator\obj\Debug\net6.0-windows\Rahil's Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahil\source\repos\Rahil's Calculator\Rahil's Calculator\obj\Debug\net6.0-windows\Rahil's Calculator.AssemblyInfoInputs.cache
+C:\Users\rahil\source\repos\Rahil's Calculator\Rahil's Calculator\obj\Debug\net6.0-windows\Rahil's Calculator.AssemblyInfo.cs
+C:\Users\rahil\source\repos\Rahil's Calculator\Rahil's Calculator\obj\Debug\net6.0-windows\Rahil's Calculator.csproj.CoreCompileInputs.cache
+C:\Users\rahil\source\repos\Rahil's Calculator\Rahil's Calculator\obj\Debug\net6.0-windows\Rahil's Calculator.dll
+C:\Users\rahil\source\repos\Rahil's Calculator\Rahil's Calculator\obj\Debug\net6.0-windows\refint\Rahil's Calculator.dll
+C:\Users\rahil\source\repos\Rahil's Calculator\Rahil's Calculator\obj\Debug\net6.0-windows\Rahil's Calculator.pdb
+C:\Users\rahil\source\repos\Rahil's Calculator\Rahil's Calculator\obj\Debug\net6.0-windows\Rahil's Calculator.genruntimeconfig.cache
+C:\Users\rahil\source\repos\Rahil's Calculator\Rahil's Calculator\obj\Debug\net6.0-windows\ref\Rahil's Calculator.dll
